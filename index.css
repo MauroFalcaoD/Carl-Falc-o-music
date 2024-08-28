@@ -1,0 +1,11 @@
+body{
+
+	background-color: #18181b;
+}
+
+h2{
+	display: flex;
+	justify-content: center;
+	padding: 24px;
+	color: white;
+}
